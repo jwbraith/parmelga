@@ -1,4 +1,4 @@
 # Parmelga
 New Age performographics in an Old World package
 
-[parmelga image](./images/parmelga.png)
+<img src="https://github.com/jwbraith/parmelga/blob/main/images/Parmelga.png">
