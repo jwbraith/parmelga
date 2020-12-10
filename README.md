@@ -1,2 +1,5 @@
 # Parmelga
-New Age performographics in an Old World package
+
+![Parmelga](/images/Parmelga.png)
+
+New Age performographics in an Old World Style
